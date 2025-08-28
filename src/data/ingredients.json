@@ -1,0 +1,242 @@
+[
+  {
+    "dishId": 1,
+    "ingredients": [
+      { "name": "Spring Roll Wrappers", "quantity": "6 sheets" },
+      { "name": "Carrots", "quantity": "1 cup, julienned" },
+      { "name": "Cabbage", "quantity": "1 cup, shredded" },
+      { "name": "Bean Sprouts", "quantity": "1/2 cup" },
+      { "name": "Spring Onions", "quantity": "2 stalks" },
+      { "name": "Ginger", "quantity": "1 tsp, minced" },
+      { "name": "Garlic", "quantity": "2 cloves, minced" },
+      { "name": "Soy Sauce", "quantity": "2 tbsp" },
+      { "name": "Oil", "quantity": "for frying" }
+    ]
+  },
+  {
+    "dishId": 2,
+    "ingredients": [
+      { "name": "Paneer", "quantity": "200g, cubed" },
+      { "name": "Yogurt", "quantity": "1/2 cup" },
+      { "name": "Ginger-Garlic Paste", "quantity": "2 tbsp" },
+      { "name": "Red Chili Powder", "quantity": "1 tsp" },
+      { "name": "Turmeric Powder", "quantity": "1/2 tsp" },
+      { "name": "Garam Masala", "quantity": "1/2 tsp" },
+      { "name": "Lemon Juice", "quantity": "1 tbsp" },
+      { "name": "Oil", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dishId": 3,
+    "ingredients": [
+      { "name": "Chicken", "quantity": "300g, boneless" },
+      { "name": "Curry Leaves", "quantity": "10-12 leaves" },
+      { "name": "Ginger-Garlic Paste", "quantity": "2 tbsp" },
+      { "name": "Red Chili Powder", "quantity": "1 tsp" },
+      { "name": "Turmeric Powder", "quantity": "1/2 tsp" },
+      { "name": "Black Pepper", "quantity": "1/2 tsp" },
+      { "name": "Corn Flour", "quantity": "2 tbsp" },
+      { "name": "Oil", "quantity": "for frying" }
+    ]
+  },
+  {
+    "dishId": 4,
+    "ingredients": [
+      { "name": "Fish Fillets", "quantity": "250g" },
+      { "name": "Gram Flour", "quantity": "1 cup" },
+      { "name": "Rice Flour", "quantity": "1/4 cup" },
+      { "name": "Red Chili Powder", "quantity": "1 tsp" },
+      { "name": "Turmeric Powder", "quantity": "1/2 tsp" },
+      { "name": "Ajwain", "quantity": "1/2 tsp" },
+      { "name": "Salt", "quantity": "to taste" },
+      { "name": "Oil", "quantity": "for frying" }
+    ]
+  },
+  {
+    "dishId": 5,
+    "ingredients": [
+      { "name": "Paneer", "quantity": "250g, cubed" },
+      { "name": "Onions", "quantity": "2 medium, sliced" },
+      { "name": "Capsicum", "quantity": "1 medium, cubed" },
+      { "name": "Tomatoes", "quantity": "2 medium, pureed" },
+      { "name": "Ginger-Garlic Paste", "quantity": "2 tbsp" },
+      { "name": "Kadhai Masala", "quantity": "2 tbsp" },
+      { "name": "Cream", "quantity": "1/4 cup" },
+      { "name": "Oil", "quantity": "3 tbsp" }
+    ]
+  },
+  {
+    "dishId": 6,
+    "ingredients": [
+      { "name": "Black Lentils", "quantity": "1 cup" },
+      { "name": "Kidney Beans", "quantity": "1/4 cup" },
+      { "name": "Onions", "quantity": "1 medium, finely chopped" },
+      { "name": "Tomatoes", "quantity": "2 medium, pureed" },
+      { "name": "Ginger-Garlic Paste", "quantity": "1 tbsp" },
+      { "name": "Butter", "quantity": "2 tbsp" },
+      { "name": "Cream", "quantity": "1/4 cup" },
+      { "name": "Garam Masala", "quantity": "1 tsp" }
+    ]
+  },
+  {
+    "dishId": 7,
+    "ingredients": [
+      { "name": "Paneer", "quantity": "200g, cubed" },
+      { "name": "Spinach", "quantity": "500g, blanched" },
+      { "name": "Onions", "quantity": "1 medium, chopped" },
+      { "name": "Tomatoes", "quantity": "2 medium, chopped" },
+      { "name": "Ginger-Garlic Paste", "quantity": "1 tbsp" },
+      { "name": "Garam Masala", "quantity": "1/2 tsp" },
+      { "name": "Cream", "quantity": "1/4 cup" },
+      { "name": "Oil", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dishId": 8,
+    "ingredients": [
+      { "name": "Chicken", "quantity": "500g, boneless" },
+      { "name": "Tomato Puree", "quantity": "1 cup" },
+      { "name": "Onions", "quantity": "2 medium, finely chopped" },
+      { "name": "Ginger-Garlic Paste", "quantity": "2 tbsp" },
+      { "name": "Butter", "quantity": "3 tbsp" },
+      { "name": "Cream", "quantity": "1/2 cup" },
+      { "name": "Kasuri Methi", "quantity": "1 tbsp" },
+      { "name": "Garam Masala", "quantity": "1 tsp" }
+    ]
+  },
+  {
+    "dishId": 9,
+    "ingredients": [
+      { "name": "Basmati Rice", "quantity": "2 cups" },
+      { "name": "Chicken", "quantity": "500g, with bone" },
+      { "name": "Onions", "quantity": "2 medium, sliced" },
+      { "name": "Tomatoes", "quantity": "2 medium, chopped" },
+      { "name": "Ginger-Garlic Paste", "quantity": "2 tbsp" },
+      { "name": "Biryani Masala", "quantity": "2 tbsp" },
+      { "name": "Saffron", "quantity": "1 pinch" },
+      { "name": "Ghee", "quantity": "3 tbsp" }
+    ]
+  },
+  {
+    "dishId": 10,
+    "ingredients": [
+      { "name": "Fish Fillets", "quantity": "400g" },
+      { "name": "Coconut Milk", "quantity": "1 cup" },
+      { "name": "Onions", "quantity": "2 medium, chopped" },
+      { "name": "Tomatoes", "quantity": "2 medium, chopped" },
+      { "name": "Ginger-Garlic Paste", "quantity": "1 tbsp" },
+      { "name": "Curry Leaves", "quantity": "8-10 leaves" },
+      { "name": "Tamarind", "quantity": "1 tbsp" },
+      { "name": "Oil", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dishId": 11,
+    "ingredients": [
+      { "name": "Milk Solids", "quantity": "200g" },
+      { "name": "Sugar", "quantity": "1 cup" },
+      { "name": "Water", "quantity": "2 cups" },
+      { "name": "Cardamom", "quantity": "4 pods" },
+      { "name": "Rose Water", "quantity": "1 tsp" },
+      { "name": "Saffron", "quantity": "1 pinch" },
+      { "name": "Oil", "quantity": "for frying" }
+    ]
+  },
+  {
+    "dishId": 12,
+    "ingredients": [
+      { "name": "Cottage Cheese", "quantity": "200g" },
+      { "name": "Milk", "quantity": "1 liter" },
+      { "name": "Sugar", "quantity": "1 cup" },
+      { "name": "Saffron", "quantity": "1 pinch" },
+      { "name": "Cardamom", "quantity": "4 pods" },
+      { "name": "Pistachios", "quantity": "2 tbsp, chopped" }
+    ]
+  },
+  {
+    "dishId": 13,
+    "ingredients": [
+      { "name": "Rice", "quantity": "1/2 cup" },
+      { "name": "Milk", "quantity": "1 liter" },
+      { "name": "Sugar", "quantity": "1/2 cup" },
+      { "name": "Cardamom", "quantity": "4 pods" },
+      { "name": "Saffron", "quantity": "1 pinch" },
+      { "name": "Nuts", "quantity": "2 tbsp, chopped" }
+    ]
+  },
+  {
+    "dishId": 14,
+    "ingredients": [
+      { "name": "Eggs", "quantity": "4 large" },
+      { "name": "Milk", "quantity": "2 cups" },
+      { "name": "Sugar", "quantity": "1/2 cup" },
+      { "name": "Vanilla Extract", "quantity": "1 tsp" },
+      { "name": "Caramel Sauce", "quantity": "1/4 cup" }
+    ]
+  },
+  {
+    "dishId": 15,
+    "ingredients": [
+      { "name": "All-Purpose Flour", "quantity": "2 cups" },
+      { "name": "Yeast", "quantity": "1 tsp" },
+      { "name": "Sugar", "quantity": "1 tsp" },
+      { "name": "Salt", "quantity": "1/2 tsp" },
+      { "name": "Oil", "quantity": "2 tbsp" },
+      { "name": "Yogurt", "quantity": "1/4 cup" }
+    ]
+  },
+  {
+    "dishId": 16,
+    "ingredients": [
+      { "name": "Whole Wheat Flour", "quantity": "2 cups" },
+      { "name": "Salt", "quantity": "1/2 tsp" },
+      { "name": "Oil", "quantity": "1 tbsp" },
+      { "name": "Water", "quantity": "3/4 cup" }
+    ]
+  },
+  {
+    "dishId": 17,
+    "ingredients": [
+      { "name": "Basmati Rice", "quantity": "1 cup" },
+      { "name": "Cumin Seeds", "quantity": "1 tsp" },
+      { "name": "Ghee", "quantity": "2 tbsp" },
+      { "name": "Salt", "quantity": "to taste" },
+      { "name": "Water", "quantity": "2 cups" }
+    ]
+  },
+  {
+    "dishId": 18,
+    "ingredients": [
+      { "name": "Yogurt", "quantity": "1 cup" },
+      { "name": "Cucumber", "quantity": "1/2 cup, grated" },
+      { "name": "Mint Leaves", "quantity": "2 tbsp, chopped" },
+      { "name": "Cumin Powder", "quantity": "1/2 tsp" },
+      { "name": "Salt", "quantity": "to taste" }
+    ]
+  },
+  {
+    "dishId": 19,
+    "ingredients": [
+      { "name": "Chicken", "quantity": "300g, boneless" },
+      { "name": "Yogurt", "quantity": "1/2 cup" },
+      { "name": "Ginger-Garlic Paste", "quantity": "2 tbsp" },
+      { "name": "Red Chili Powder", "quantity": "1 tsp" },
+      { "name": "Turmeric Powder", "quantity": "1/2 tsp" },
+      { "name": "Garam Masala", "quantity": "1/2 tsp" },
+      { "name": "Lemon Juice", "quantity": "1 tbsp" },
+      { "name": "Oil", "quantity": "2 tbsp" }
+    ]
+  },
+  {
+    "dishId": 20,
+    "ingredients": [
+      { "name": "Fish Fillets", "quantity": "300g" },
+      { "name": "Lemon Juice", "quantity": "2 tbsp" },
+      { "name": "Ginger-Garlic Paste", "quantity": "1 tbsp" },
+      { "name": "Red Chili Powder", "quantity": "1 tsp" },
+      { "name": "Turmeric Powder", "quantity": "1/2 tsp" },
+      { "name": "Rice Flour", "quantity": "2 tbsp" },
+      { "name": "Oil", "quantity": "for frying" }
+    ]
+  }
+]
